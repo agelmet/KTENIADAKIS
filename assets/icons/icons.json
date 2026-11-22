@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/alucomfort-icon.svg"
+ },
+ "source_md5": "762d3ff4542b7d200c0bdef11d33372f",
+ "version": "ddb4a01a",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "cf539f48c31db76e66187d1be27a8901"
+ ],
+ "made": "2026-11-22"
+}
