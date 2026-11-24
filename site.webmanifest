@@ -3,8 +3,8 @@
  "short_name": "AluComfort",
  "start_url": "./",
  "display": "standalone",
- "background_color": "#F4F3EF",
- "theme_color": "#F4F3EF",
+ "background_color": "#F5F2EC",
+ "theme_color": "#F5F2EC",
  "icons": [
   {
    "src": "assets/icons/icon-192.png",
